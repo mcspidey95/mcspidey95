@@ -1,7 +1,5 @@
-![MasterHead](https://media.discordapp.net/attachments/1015291329120587886/1238818049750990918/Screenshot_2024-05-11_171021.png?ex=6640aab7&is=663f5937&hm=f49f1d15dce5a5957460203c7a1a88c78be6c2663b44b584a780133ff99fc01d&=&format=webp&quality=lossless&width=1440&height=430)
-
 <h1 align="center">Hi 👋, I'm Manish Bhat</h1>
-<h3 align="center">A passionate engineering student from India.</h3>
+<h3 align="center">A passionate engineering student from Bangalore.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcspidey95&label=Profile%20views&color=0e75b6&style=flat" alt="mcspidey95" /> </p>
