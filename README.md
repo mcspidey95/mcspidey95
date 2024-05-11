@@ -1,23 +1,26 @@
 <h1 align="center">Hi 👋, I'm Manish Bhat</h1>
 <h3 align="center">A passionate engineering student from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcspidey95&label=Profile%20views&color=0e75b6&style=flat" alt="mcspidey95" /> </p>
 
+<p align="left"> <a href="https://twitter.com/batkagrip" target="blank"><img src="https://img.shields.io/twitter/follow/batkagrip?logo=twitter&style=for-the-badge" alt="batkagrip" /></a> </p>
+
 - 🌱 I’m currently learning **Gen AI, Full-Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://mcspidey95.github.io/](https://mcspidey95.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://mcspidey95.github.io/)
 
 - 💬 Ask me about **Python, C#**
 
 - 📫 How to reach me **manishbhat666@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oAQmq4RH-wttAFKkw3VazKwc793qybQw/view?usp=sharing](https://drive.google.com/file/d/1oAQmq4RH-wttAFKkw3VazKwc793qybQw/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1oAQmq4RH-wttAFKkw3VazKwc793qybQw/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/batkagrip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="batkagrip" height="30" width="40" /></a>
 <a href="https://instagram.com/mcspidey95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcspidey95" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mcspidey95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mcspidey95" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mcspidey95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mcspidey95" height="30" width="40" /></a>
@@ -29,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcspidey95&show_icons=true&locale=en&layout=compact" alt="mcspidey95" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcspidey95&show_icons=true&locale=en" alt="mcspidey95" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcspidey95&" alt="mcspidey95" /></p>
