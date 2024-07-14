@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manishbhat666@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1oAQmq4RH-wttAFKkw3VazKwc793qybQw/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1wozs3CpGMh2i3-dOFL0GH6tLIxQPbjz9/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny :)**
 
@@ -23,6 +23,7 @@
 <a href="https://instagram.com/mcspidey95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mcspidey95" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mcspidey95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mcspidey95" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mcspidey95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mcspidey95" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mcspidey95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mcspidey95" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
