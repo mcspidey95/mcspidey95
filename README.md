@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **manishbhat666@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1wozs3CpGMh2i3-dOFL0GH6tLIxQPbjz9/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1uVmljukKZ7BCmBGK9Bj2a8yLf6uuuiNo/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am funny :)**
 
